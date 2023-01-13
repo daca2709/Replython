@@ -1,0 +1,8 @@
+seaborn
+numpy
+BeautifulSoup4
+warn
+pandas 
+time-tools
+flask
+random
